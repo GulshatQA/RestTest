@@ -1,1 +1,1 @@
-![image](https://github.com/GulshatQA/RestTest/assets/154721398/f012afa5-908c-4fe4-aaf2-7298ff65f5f0)
+[![Build status](https://ci.appveyor.com/api/projects/status/d3sd2koy2he9ftn6?svg=true)](https://ci.appveyor.com/project/GulshatQA/resttest)
